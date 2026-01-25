@@ -10,36 +10,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="757f32e3-95e6-446c-9c8c-7e8f7d12d93f" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountyTitles/countyTitles/CountyTitles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountyTitles/countyTitles/CountyTitlesCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountyTitles/countyTitles/Region.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountyTitles/countyTitles/RegionEnterListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountyTitles/countyTitles/RegionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_21_2025_6_58_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_21_2025_6_58_PM_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_21_2025_6_58_PM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_21_2025_6_58_PM__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CountyTitles-1.2.1-SNAPSHOT-shaded.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CountyTitles-1.2.2-SNAPSHOT-shaded.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CountyTitles/countyTitles/CountyTitles$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CountyTitles/countyTitles/CountyTitles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CountyTitles/countyTitles/CountyTitlesCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CountyTitles/countyTitles/Region.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CountyTitles/countyTitles/RegionEnterListener$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CountyTitles/countyTitles/RegionEnterListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CountyTitles/countyTitles/RegionManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-CountyTitles-1.2.0-STABLE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-CountyTitles-1.2.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-CountyTitles-1.2.2-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-CountyTitles-1.2.5-RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/CountyTitles.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/CountyTitles.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CountyTitles/countyTitles/CountyTitles$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CountyTitles/countyTitles/CountyTitles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CountyTitles/countyTitles/CountyTitlesCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CountyTitles/countyTitles/Region.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CountyTitles/countyTitles/RegionEnterListener$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CountyTitles/countyTitles/RegionEnterListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CountyTitles/countyTitles/RegionManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/CountyTitles-1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CountyTitles_jar/CountyTitles.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +123,7 @@
     &quot;Maven.CountyTitles [clean].executor&quot;: &quot;Run&quot;,
     &quot;Maven.CountyTitles [deploy].executor&quot;: &quot;Run&quot;,
     &quot;Maven.CountyTitles [package].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -172,7 +161,7 @@
       <recent name="CountyTitles.countyTitles" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.CountyTitles [build]">
+  <component name="RunManager" selected="Gradle.CountyTitles [clean]">
     <configuration name="CountyTitles [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -298,9 +287,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CountyTitles [clean]" />
         <item itemvalue="Gradle.CountyTitles [build]" />
         <item itemvalue="Gradle.CountyTitles [classes]" />
-        <item itemvalue="Gradle.CountyTitles [clean]" />
         <item itemvalue="Gradle.CountyTitles [buildNeeded]" />
         <item itemvalue="Gradle.CountyTitles [buildDependents]" />
       </list>
@@ -337,6 +326,9 @@
       <workItem from="1768682731836" duration="31000" />
       <workItem from="1768683280730" duration="3000" />
       <workItem from="1769358258626" duration="1719000" />
+      <workItem from="1769360116019" duration="13000" />
+      <workItem from="1769360139004" duration="29000" />
+      <workItem from="1769360185332" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
